@@ -14,4 +14,5 @@ public class Libro implements Serializable {
     private String autor;
     private int añoPublicacion;
     private boolean prestado;
+    private String who;
 }
